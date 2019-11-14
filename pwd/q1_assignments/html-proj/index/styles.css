@@ -1,0 +1,10 @@
+/* Carlos Solis 10/04/19 */
+/* adds a border to the heading with the shortcut property*/
+h1 { border: 2px solid black;  }
+
+/* Uses the specific border properties separately*/
+div  { 
+	border-style: solid;
+    border-color: black;
+	border-width: 2px; 
+}
